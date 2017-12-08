@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FinalGame
+comment0.text=\r\ntimer\ outline,\ with\ print...\r\n\r\nfor(int\ x\ \=\ 3;\ x\ >\=\ 0;\ x--)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ thread.sleep(1000);\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(x);\r\n\ \ \ \ \ \ \ \ }\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=void\ quickTimer(int)
+numComments=3
